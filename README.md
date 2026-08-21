@@ -7,7 +7,7 @@
   <li>Currently focused on Backend Development with Go</li>
 </ul>
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=SimonDiLeoGIT)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=dileygit)
 --
 ### Connect With Me
 
