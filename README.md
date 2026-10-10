@@ -7,7 +7,7 @@
 <h3>Software Engineer</h3>
 
 <p>
-  Semisenior Full Stack Developer at BSmart
+  Semisenior Full Stack Developer at BSmart<br/>
   🇦🇷 Based in Argentina<br/>
   💻 Focused on backend development with Go<br/>
   🎓 Programmer Analyst — National University of Luján
