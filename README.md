@@ -4,9 +4,10 @@
 
 <h1>Hi there, I'm Simón 👋</h1>
 
-<h3>Backend Software Engineer | Go</h3>
+<h3>Software Engineer</h3>
 
 <p>
+  Semisenior Full Stack Developer at BSmart
   🇦🇷 Based in Argentina<br/>
   💻 Focused on backend development with Go<br/>
   🎓 Programmer Analyst — National University of Luján
@@ -20,7 +21,6 @@
 
 <h2>⚡ Stats ⚡</h2>
 
-<img width="390" src="https://streak-stats.demolab.com/?user=dileygit&theme=react&border_radius=10" alt="GitHub streak stats"/>
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=dileygit&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats"/>
 
 <br/>
